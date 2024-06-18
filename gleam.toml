@@ -6,7 +6,7 @@ version = "1.0.0"
 #
 description = "litefs event stream client for gleam."
 licences = ["Apache-2.0"]
-repository = { type = "github", user = "VioletBuse", repo = "gleam_litefs" }
+repository = { type = "github", user = "VioletBuse", repo = "lite_fs" }
 # links = [{ title = "Website", href = "https://gleam.run" }]
 #
 # For a full reference of all the available options, you can have a look at
